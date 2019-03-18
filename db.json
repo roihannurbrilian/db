@@ -1,25 +1,15 @@
-{
-  "bio": [
-    { "nama": "Roihan Nur Brilian", "kelas": "D3 Teknik Informatika 03", "email":"roihan.brilian@students.amikom.ac.id", "github":"roihannurbrilian" }
-],
-  "sosialmedia": [
-    {
-      "sosialmedia": "instagram", 
-      "URL": "https://www.instagram.com/roihannurbrilian"
-}
-],
-
-  "website": [
-    {
-      "description": "SevenPotrait", 
-      "URL": "https://sevenpotrait.com"
+{ 
+  "user" : [{
+    "nama" : "rizki nur safitri",
+    "kelas" : "D3TI03",
+    "alamat" : "grogol,weru,sukoharjo"
+  }],
+  "sosialmedia" : [
+    { "sosialmedia" : "instagram",
+      "url"         : "https://www.istagram.com/rizkisaf"
     },
-    { 
-      "description": "SevenPotrait",
-      "URL": "https://SevenPotrait/landing"
+    { "sosialmedia" : "facebook",
+      "url"         : "https://www.facebook.com/rizkisaf"
     }
-  ],
-  "profile": {
-    "name": "roihannurbrilian"
-  }
+    ]
 }
