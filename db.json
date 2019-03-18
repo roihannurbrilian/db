@@ -16,6 +16,9 @@
       "url"         : "https://www.facebook.com/sevenpotrait"
     }
     ]
-   "pesan" : [{ "pesan" : "dont say never to do it"}]
+   "pesan" : [
+    { "pesan" : "dont say never to do it"
+    }
+    ]
 }
   
