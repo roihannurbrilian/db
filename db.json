@@ -1,10 +1,14 @@
-
 {
-  "users": [
-    { "username": "sevenpotrait", "email": "sevenpotrait@gmail.com" },
-    { "username": "roihannurbrilian", "email": "roihannurbrilian@gmail.com" },
-    { "username": "roihanbrilian", "email": "roihan.brilian@students.amikom.ac.id" }
+  "bio": [
+    { "nama": "Roihan Nur Brilian", "kelas": "D3 Teknik Informatika 03", "email":"roihan.brilian@students.amikom.ac.id", "github":"roihannurbrilian" }
 ],
+  "sosialmedia": [
+    {
+      "sosialmedia": "instagram", 
+      "URL": "https://www.instagram.com/roihannurbrilian"
+}
+],
+
   "website": [
     {
       "description": "SevenPotrait", 
@@ -12,11 +16,10 @@
     },
     { 
       "description": "SevenPotrait",
-      "URL": "https://sevenpotrait.com/landing"
+      "URL": "https://SevenPotrait/landing"
     }
   ],
   "profile": {
-    "name": "SevenPotrait"
+    "name": "roihannurbrilian"
   }
 }
-
