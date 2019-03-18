@@ -1,22 +1,22 @@
 
 {
   "users": [
-    { "username": "feryrahmad", "email": "fery@sobatpedia.id" },
-    { "username": "yaelahferr", "email": "yaelahferr@gmail.com" },
-    { "username": "rahmadz", "email": "rahmadz@fr34kz.tech" }
+    { "username": "sevenpotrait", "email": "sevenpotrait@gmail.com" },
+    { "username": "roihannurbrilian", "email": "roihannurbrilian@gmail.com" },
+    { "username": "roihanbrilian", "email": "roihan.brilian@students.amikom.ac.id" }
 ],
   "website": [
     {
-      "description": "SobatPedia", 
-      "URL": "https://sobatpedia.id"
+      "description": "SevenPotrait", 
+      "URL": "https://sevenpotrait.com"
     },
     { 
-      "description": "SobatPedia",
-      "URL": "https://sobatpedia.id/landing"
+      "description": "SevenPotrait",
+      "URL": "https://sevenpotrait.com/landing"
     }
   ],
   "profile": {
-    "name": "yaelahferr"
+    "name": "SevenPotrait"
   }
 }
 
