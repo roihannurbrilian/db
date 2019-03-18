@@ -1,0 +1,22 @@
+
+{
+  "users": [
+    { "username": "feryrahmad", "email": "fery@sobatpedia.id" },
+    { "username": "yaelahferr", "email": "yaelahferr@gmail.com" },
+    { "username": "rahmadz", "email": "rahmadz@fr34kz.tech" }
+],
+  "website": [
+    {
+      "description": "SobatPedia", 
+      "URL": "https://sobatpedia.id"
+    },
+    { 
+      "description": "SobatPedia",
+      "URL": "https://sobatpedia.id/landing"
+    }
+  ],
+  "profile": {
+    "name": "yaelahferr"
+  }
+}
+
