@@ -1,20 +1,17 @@
 { 
   "nama" : [{
-    "nama depan" : "rizki nur safitri",
-    "nama belakang" : "D3TI03",
-    "kelas" : "grogol,weru,sukoharjo",
-    "nim" : "17.01.4042",
-    
+    "depan" : "roihan nur",
+    "belakang" : "brilian",
+    "kelas" : "D3TI03",
+    "alamat" : "krajan,wedomartani,yogyakarta"
   }],
-  "contact" : [
+  "sosialmedia" : [
     { "sosialmedia" : "instagram",
-      "url"         : "https://www.instagram.com/sevenpotrait",
+      "url"         : "https://www.instagram.com/sevenpotrait"
     },
     { "sosialmedia" : "facebook",
-      "url"         : "https://www.facebook.com/sevpot",
-    },
-    { "sosialmedia" : "twitter",
-      "url"         : "https://www.facebook.com/sevenpotrait",
+      "url"         : "https://www.facebook.com/sevpot"
     }
     ]
 }
+  
