@@ -5,13 +5,18 @@
     "kelas" : "D3TI03",
     "alamat" : "krajan,wedomartani,yogyakarta"
   }],
-  "sosialmedia" : [
+  "contact" : [
     { "sosialmedia" : "instagram",
       "url"         : "https://www.instagram.com/sevenpotrait"
     },
     { "sosialmedia" : "facebook",
       "url"         : "https://www.facebook.com/sevpot"
     }
-    ]
+    { "sosialmedia" : "twitter",
+      "url"         : "https://www.facebook.com/sevenpotrait"
+    }
+    ],
+  "pesan" : [{ "roihan" : "dont say never to do it"
+    }]
 }
   
